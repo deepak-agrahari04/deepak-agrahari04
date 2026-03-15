@@ -7,7 +7,7 @@ B.Tech CSE Student | AI Engineer Enthusiast | MERN Stack Developer | Problem Sol
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full Stack Developer+Enthusiast;Generative+AI+Developer;MERN+Stack+Developer;DSA+Problem+Solver;Building+Real+World+AI+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=24&duration=4000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Full%20Stack%20Developer;MERN%20Stack%20Developer;Generative%20AI%20Developer;DSA%20Problem%20Solver"/>
 </p>
 
 <p align="center">
@@ -70,7 +70,6 @@ Dynamic Programming
 
 ---
 
-# 💻 Tech Stack
 
 # 💻 Skills & Tools
 
