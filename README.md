@@ -1,46 +1,153 @@
-# Deepak
+<!-- ======================== BANNER ======================== -->
 
-## 🎓 About Me
+<h1 align="center">Hi 👋, I'm Deepak</h1>
 
-I am a Computer Science and Engineering student with a strong interest in software development, full-stack web technologies, and problem-solving. I focus on building scalable applications and improving my programming and system design knowledge.
+<h3 align="center">
+B.Tech CSE Student | AI Engineer Enthusiast | MERN Stack Developer | Problem Solver
+</h3>
 
-## 💻 Technical Skills
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full Stack Developer+Enthusiast;Generative+AI+Developer;MERN+Stack+Developer;DSA+Problem+Solver;Building+Real+World+AI+Projects" />
+</p>
 
-### Programming Languages
-- JavaScript  
-- Java 
-
-### Web Development
-- HTML, CSS, React.js
-- Tailwind 
-- Node.js, Express.js  
-
-### Database
-- MongoDB
-- My SQL
-
-### Tools & Technologies
-- Git & GitHub  
-- VS Code  
-
-## 📚 Coursework Knowledge
-
-- Object-Oriented Programming (Java)  
-- Operating Systems  
-- Computer Networks  
-- Database Management Systems  
-- Data Structures and Algorithms  
-
-## 🚀 Projects
-
-- AI Code Review System  
-- Practice Projects Hub (Collection of Mini Web Projects)
-
-## 📫 Contact Information
-
-- GitHub: https://github.com/deepak-agrahari04
-- Email: deepak04agrahari@gmail.com  
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=deepak-agrahari04&style=for-the-badge&color=blue" />
+</p>
 
 ---
 
-⭐ I am continuously learning and improving my software development skills.
+# 🚀 Competitive Programming
+
+<p align="center">
+
+<a href="https://leetcode.com/u/deepak_agrahari/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+
+
+<a href="https://www.geeksforgeeks.org/profile/deepak04arf5r">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📊 LeetCode Stats
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/deepak_agrahari?theme=dark&font=Baloo&ext=contest&border=0&radius=20"/>
+
+</p>
+
+---
+# 🚀 Featured Projects
+
+### AI Code Reviewer
+
+• AI-powered code review system that analyzes code and provides intelligent feedback  
+• Detects bugs, suggests optimizations, and improves code quality using **Gemini API**  
+• Interactive frontend built for **real-time code input and review results**  
+• Built using **React, Node.js, Tailwind CSS, and Gemini API**
+
+---
+
+# 📈 DSA Progress
+
+✔ Solving **LeetCode & GeeksforGeeks daily**  
+
+### Core Topics
+
+Arrays  
+Strings  
+Linked List  
+Stack & Queue  
+Trees  
+Graphs  
+Dynamic Programming  
+
+---
+
+# 💻 Tech Stack
+
+# 💻 Skills & Tools
+
+### 🌐 Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express"/>
+</p>
+
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
+
+### 💻 Programming
+<p>
+<img src="https://skillicons.dev/icons?i=java,python"/>
+</p>
+
+### 🛠️ Tools
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,git,github"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=deepak-agrahari04&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=deepak-agrahari04&theme=tokyonight" height="170"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak-agrahari04&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepak-agrahari04&theme=tokyo-night"/>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/deepak-agrahari">
+
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="mailto:deepak04agrahari@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+
+</a>
+
+</p>
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
