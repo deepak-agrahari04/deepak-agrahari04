@@ -98,7 +98,6 @@ Dynamic Programming
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepak-agrahari04&show_icons=true&theme=tokyonight&cache_seconds=86400" height="170"/>
   <img src="https://streak-stats.demolab.com?user=deepak-agrahari04&theme=tokyonight&cache_seconds=86400" height="170"/>
 </p>
 
