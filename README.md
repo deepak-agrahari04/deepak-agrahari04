@@ -98,12 +98,12 @@ Dynamic Programming
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepak-agrahari04&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=deepak-agrahari04&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=deepak-agrahari04&show_icons=true&theme=tokyonight&cache_seconds=86400" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=deepak-agrahari04&theme=tokyonight&cache_seconds=86400" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak-agrahari04&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak-agrahari04&layout=compact&theme=tokyonight&cache_seconds=86400"/>
 </p>
 
 ---
