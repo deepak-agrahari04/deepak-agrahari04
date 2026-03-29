@@ -101,9 +101,7 @@ Dynamic Programming
   <img src="https://streak-stats.demolab.com?user=deepak-agrahari04&theme=tokyonight&cache_seconds=86400" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak-agrahari04&layout=compact&theme=tokyonight&cache_seconds=86400"/>
-</p>
+
 
 ---
 
